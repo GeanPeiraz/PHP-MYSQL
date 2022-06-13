@@ -1,0 +1,34 @@
+Neste guia completo para a criação de sites de e-commerce usando PHP e MySQL, o renomado autor Larry Ullman conduz você por todos os passos do processo de desenvolvimento:
+
+– Design da interface visual
+
+- Criação do banco de dados
+
+- Apresentação do conteúdo
+
+- Criação de um catálogo online
+
+- Administração do carrinho de compras
+
+- Tratamento dos pedidos
+
+- Processamento dos pagamentos
+
+- Atendimento dos pedidos
+
+Sempre enfatizando a segurança e as boas práticas ao longo do caminho.
+
+Não importa se você é relativamente iniciante na área de e-commerce ou se é um desenvolvedor web experiente, é certo que você irá aprender algo novo.
+
+O livro utiliza dois exemplos completos de e-commerce que contêm vários recursos e têm diversos objetivos, com o intuito de apresentar a maior variedade possível do que significa fazer o design de um site eficiente de e-commerce.
+
+Esta segunda edição, totalmente atualizada e expandida, inclui um exemplo com um novo método para processamento de pagamentos – o Stripe –, além de refletir as alterações mais recentes nas opções e nas metodologias para o uso do PayPal e do Authorize.net.
+
+Há capítulos novos que discutem diversas maneiras pelas quais os dois sites de exemplo podem ser expandidos, disponibilizando mais códigos que poderão ser utilizados em projetos reais. Outro capítulo novo discute a adição de funcionalidades usando o JavaScript e o Ajax.
+
+Maximize as vendas pensando primeiro no cliente.
+Crie um ambiente de servidor e um banco de dados seguros.
+Utilize transações seguras e evite vulnerabilidades comuns.
+Incorpore diferentes gateways de pagamento.
+Faça o design de sites escaláveis, que sejam fáceis de manter.
+Estenda os sites de exemplo do livro para que atendam às suas necessidades.
